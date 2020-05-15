@@ -1,4 +1,0 @@
-void file()
-{
-    "ini Dev";
-}
